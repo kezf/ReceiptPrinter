@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ReceiptPrinter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="print">print</string>
+    <string name="previous">Previous</string>
+    <string name="merchant_name_label">Merchant name</string>
+    <string name="merchant_name_hint">Enter a merchant name(eg:Apple Trading)</string>
+    <string name="merchant_name_default">Apple Trading</string>
+    <string name="amount_label">Amount</string>
+    <string name="amount_hint">Enter an amount(eg:1.00)</string>
+    <string name="amount_default">1.00</string>
+    <string name="date_label">Date</string>
+    <string name="date_hint">Enter a date(eg:20210501)</string>
+    <string name="date_default">20210501</string>
+
+    <string name="btn_hide">Hide_↑↑↑</string>
+    <string name="btn_show">Show_↑↑↑</string>
+    <string name="paired_devices">Paired</string>
+    <string name="tip_have_no_paired_device">No paired device</string>
+    <string name="no_device">No device</string>
+    <string name="set_device">Please set device</string>
+    <string name="device_connected">Device connected</string>
+    <string name="device_print">Device print</string>
+    <string name="device_interrupted">Device interrupted</string>
+    <string name="device_print_completion">Device print completion</string>
+    <string name="device_diconnect">Device disconnect</string>
+    <string name="search_device">Search</string>
+    <string name="dialog_tip">Tip</string>
+    <string name="dialog_back">Back</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="printer_header">Printer</string>
+    <string name="receipt_header">Receipt</string>
+
+    <!-- Printer Preferences -->
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="bluetooth_device_title">Bluetooth device</string>
+
+    <!-- Receipt Preferences -->
+    <string name="template_title">Template</string>
+    <string name="template_merchant_title">The merchant stub</string>
+    <string name="template_merchant_summary">Print the merchant stub</string>
+    <string name="template_custom_title">The custom stub</string>
+    <string name="template_custom_summary">Print the custom stub</string>
+
+</resources>

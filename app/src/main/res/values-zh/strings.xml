@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">票据打印机</string>
+    <string name="action_settings">设置</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">首页</string>
+    <string name="second_fragment_label">第二页</string>
+    <string name="print">打印</string>
+    <string name="previous">前进</string>
+    <string name="merchant_name_label">商户名</string>
+    <string name="merchant_name_hint">输入商户名(例如:苹果商贸)</string>
+    <string name="merchant_name_default">苹果商贸</string>
+    <string name="amount_label">金额</string>
+    <string name="amount_hint">输入金额(例如:1.00)</string>
+    <string name="amount_default">1.00</string>
+    <string name="date_label">日期</string>
+    <string name="date_hint">输入日期(例如:20210501)</string>
+    <string name="date_default">20210501</string>
+
+    <string name="btn_hide">隐藏_↑↑↑</string>
+    <string name="btn_show">显示_↑↑↑</string>
+    <string name="paired_devices">配对</string>
+    <string name="tip_have_no_paired_device">没有配对设备</string>
+    <string name="no_device">没有设备</string>
+    <string name="set_device">请设置设备</string>
+    <string name="device_connected">设备连接</string>
+    <string name="device_print">设备打印</string>
+    <string name="device_interrupted">设备中断</string>
+    <string name="device_print_completion">设备打印完成</string>
+    <string name="device_diconnect">设备断开</string>
+    <string name="search_device">搜索</string>
+    <string name="dialog_tip">标题</string>
+    <string name="dialog_back">后退</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="title_activity_settings">设置</string>
+
+    <!-- Preference Titles -->
+    <string name="printer_header">打印机</string>
+    <string name="receipt_header">票据</string>
+
+    <!-- Printer Preferences -->
+    <string name="bluetooth_title">蓝牙</string>
+    <string name="bluetooth_device_title">蓝牙设备</string>
+
+    <!-- Receipt Preferences -->
+    <string name="template_title">模板</string>
+    <string name="template_merchant_title">商户联</string>
+    <string name="template_merchant_summary">打印商户联</string>
+    <string name="template_custom_title">客户联</string>
+    <string name="template_custom_summary">打印客户联</string>
+
+</resources>
